@@ -47,4 +47,4 @@ function solve(turn) {
 
 
 }
-solve('paper');
+solve('');
